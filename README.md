@@ -4,7 +4,12 @@
 - 🌱 I’m currently learning Python, Django, JS, AWS, SQL, HTML5 and CSS3
 - 💞️ I’m here to colaborate with every project I can hoping to learn more and more about programming
 
-### How to reach me
+## How to reach me
+
+### My page
+  [My site](https://alanmf.com)
+  
+### Social media
 - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-martins-ferreira/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanmf.pro@gmail.com)
 
