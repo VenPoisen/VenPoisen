@@ -10,11 +10,10 @@
   [My site](https://alanmf.com)
   
 ### Social media
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-martins-ferreira/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-martins-ferreira/)
 
 ### E-mail
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanmf.pro@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanmf.pro@gmail.com)
 
 <!---
 VenPoisen/VenPoisen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
