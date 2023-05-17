@@ -1,7 +1,7 @@
 # Hi, I'm Alan! 👋
 
 - 👀 I'm a chemist who in 2021 fell in love with programming and now I've made it my main career
-- 🌱 I’m currently learning Python, Django, JS, AWS, SQL, HTML5 and CSS3
+- 🌱 I’m currently working with Python, Django, JS, AWS, SQL, HTML5, CSS3 and recently React native.
 - 💞️ I’m here to colaborate with every project I can hoping to learn more and more about programming
 
 ## Languages stats
