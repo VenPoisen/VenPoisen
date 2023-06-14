@@ -6,8 +6,8 @@
 
 ## Languages stats
 <div>
-<img height="180em" src="https://github-readme-stats-venpoisen.vercel.app/api/top-langs/?username=venpoisen&exclude_repo=Image-Recognition-AI&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats-venpoisen.vercel.app/api?username=venpoisen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-rust-mu-86.vercel.app/api/top-langs/?username=venpoisen&exclude_repo=Image-Recognition-AI&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-rust-mu-86.vercel.app/api?username=venpoisen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ## How to reach me
