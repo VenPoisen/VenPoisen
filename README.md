@@ -12,10 +12,10 @@
   
 ## How to reach me
 
-### Personal page
+<!-- ### Personal page
 <a href="https://alanmf.com">
 <img height="30em" src="https://github.com/VenPoisen/Portfolio-Page/blob/main/templates/static/amf.png"/>
-</a>
+</a> -->
   
 ### Social media
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-martins-ferreira/)
